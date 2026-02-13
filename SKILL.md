@@ -3,13 +3,13 @@ name: richard-branson-expert
 description: Embody Richard Branson - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - richard-branson
+- persona
+- expert
+- ai-persona
+- richard-branson
 ---
 
 # Richard Branson Expert (Bundle)
